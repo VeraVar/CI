@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/hpgqe51350s866v0?svg=true)](https://ci.appveyor.com/project/VeraVar/ci)
